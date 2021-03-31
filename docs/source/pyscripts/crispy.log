@@ -1,0 +1,154 @@
+2019-07-23 14:22:48,434 - crispy - INFO - ['/home/groot/HCIL/HCIFS/flat/channel01_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel02_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel03_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel04_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel05_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel06_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel07_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel08_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel09_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel10_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel11_flat.fits']
+2019-07-23 14:22:48,434 - crispy - INFO - [550.0, 577.0, 600.0, 620.0, 632.8, 640.0, 650.0, 670.0, 694.3, 720.0, 740.0]
+2019-07-23 14:22:56,676 - crispy - INFO - ['..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel02_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel03_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel04_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel05_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel07_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel08_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel09_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel10_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel11_flat.fits']
+2019-07-23 14:23:11,395 - crispy - INFO - Building calibration files, placing results in ..//ReferenceFiles/wavecalHCIFS/
+2019-07-23 14:23:11,399 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:23:11,406 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:23:11,965 - crispy - INFO - Mean, median, std: (5.50748889176921, 4.7999999999999545, 3.9322691007679453)
+2019-07-23 14:23:12,158 - crispy - INFO - Initializing PSFlet location transformation coefficients
+2019-07-23 14:23:12,570 - crispy - INFO - Performing initial optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:23:13,492 - crispy - INFO - Array origin: (514.0414364997876, 513.9391542962217)
+2019-07-23 14:23:13,492 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:23:24,037 - crispy - INFO - Array origin: (514.3727618197041, 513.8967754766595)
+2019-07-23 14:23:31,087 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel02_flat.fits
+2019-07-23 14:23:31,638 - crispy - INFO - Mean, median, std: (5.371167268842666, 4.666666666666515, 3.847416451256985)
+2019-07-23 14:23:31,831 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:23:33,672 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel02_flat.fits
+2019-07-23 14:23:36,738 - crispy - INFO - Array origin: (519.4370871979249, 513.8579606718462)
+2019-07-23 14:23:42,952 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel03_flat.fits
+2019-07-23 14:23:43,487 - crispy - INFO - Mean, median, std: (5.480404801534915, 4.7666666666666515, 3.9286911899215062)
+2019-07-23 14:23:43,675 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:23:45,423 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel03_flat.fits
+2019-07-23 14:23:47,656 - crispy - INFO - Array origin: (523.4290360284366, 513.8242496058947)
+2019-07-23 14:23:53,912 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel04_flat.fits
+2019-07-23 14:23:54,453 - crispy - INFO - Mean, median, std: (5.9671909210384175, 5.2000000000000455, 4.243493293412835)
+2019-07-23 14:23:54,646 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:23:56,390 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel04_flat.fits
+2019-07-23 14:23:58,552 - crispy - INFO - Array origin: (526.9845088607555, 513.7961537250079)
+2019-07-23 14:24:04,796 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel05_flat.fits
+2019-07-23 14:24:05,327 - crispy - INFO - Mean, median, std: (4.3298324058926285, 3.7666666666666515, 3.101282773661208)
+2019-07-23 14:24:05,521 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:24:07,271 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel05_flat.fits
+2019-07-23 14:24:10,300 - crispy - INFO - Array origin: (528.7746536480225, 513.7961537248879)
+2019-07-23 14:24:16,614 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits
+2019-07-23 14:24:17,166 - crispy - INFO - Mean, median, std: (5.590609837861997, 4.8333333333332575, 4.024312941885491)
+2019-07-23 14:24:17,359 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:24:19,114 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits
+2019-07-23 14:24:20,697 - crispy - INFO - Array origin: (530.1984021814745, 513.7719138350208)
+2019-07-23 14:24:26,971 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel07_flat.fits
+2019-07-23 14:24:27,519 - crispy - INFO - Mean, median, std: (5.000803564689058, 4.2999999999999545, 3.6177253472704884)
+2019-07-23 14:24:27,713 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:24:29,468 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel07_flat.fits
+2019-07-23 14:24:30,953 - crispy - INFO - Array origin: (531.7367463767173, 513.7595772890447)
+2019-07-23 14:24:37,183 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel08_flat.fits
+2019-07-23 14:24:37,725 - crispy - INFO - Mean, median, std: (4.968101360297072, 4.2999999999999545, 3.5894624908708908)
+2019-07-23 14:24:37,917 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:24:39,666 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel08_flat.fits
+2019-07-23 14:24:42,053 - crispy - INFO - Array origin: (534.9407715631156, 513.7431943353274)
+2019-07-23 14:24:48,292 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel09_flat.fits
+2019-07-23 14:24:48,831 - crispy - INFO - Mean, median, std: (5.1165868917310044, 4.400000000000091, 3.6935835882796964)
+2019-07-23 14:24:49,022 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:24:50,769 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel09_flat.fits
+2019-07-23 14:24:53,475 - crispy - INFO - Array origin: (538.2677329686045, 513.7243140219858)
+2019-07-23 14:24:59,753 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel10_flat.fits
+2019-07-23 14:25:00,293 - crispy - INFO - Mean, median, std: (5.9696580090315505, 5.2000000000000455, 4.2556291844062875)
+2019-07-23 14:25:00,485 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:25:02,250 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel10_flat.fits
+2019-07-23 14:25:04,836 - crispy - INFO - Array origin: (541.8995996717181, 513.7084432352221)
+2019-07-23 14:25:11,095 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel11_flat.fits
+2019-07-23 14:25:11,625 - crispy - INFO - Mean, median, std: (5.279525179880629, 4.566666666666606, 3.801013371931416)
+2019-07-23 14:25:11,821 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:25:13,580 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel11_flat.fits
+2019-07-23 14:25:16,147 - crispy - INFO - Array origin: (544.671195283806, 513.7001845507291)
+2019-07-23 14:25:22,456 - crispy - INFO - Saving wavelength solution to ..//ReferenceFiles/wavecalHCIFS/lamsol.dat
+2019-07-23 14:25:22,456 - crispy - INFO - Computing wavelength values at pixel centers
+2019-07-23 14:25:23,078 - crispy - INFO - Making high-resolution PSFLet models
+2019-07-23 14:25:23,078 - crispy - INFO - Starting parallel computation
+2019-07-23 14:25:23,166 - crispy - INFO - Computing PSFLet widths...
+2019-07-23 14:25:23,399 - crispy - INFO - Reduced cube will have 29 wavelength bins
+2019-07-23 14:25:23,399 - crispy - INFO - Making polychrome cube
+2019-07-23 14:25:53,536 - crispy - INFO - Saving polychrome cube
+2019-07-23 14:26:03,647 - crispy - INFO - Saving wavelength calibration cube
+2019-07-23 14:26:03,659 - crispy - INFO - Total time elapsed: 172 s
+2019-07-23 14:27:05,140 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits
+2019-07-23 14:27:05,671 - crispy - INFO - Mean, median, std: (5.590609837861997, 4.8333333333332575, 4.024312941885491)
+2019-07-23 14:27:05,675 - crispy - INFO - Reduced cube will have 29 wavelength bins
+2019-07-23 14:27:06,618 - crispy - INFO - Elapsed time: 1.496326s
+2019-07-23 14:27:39,534 - crispy - INFO - Reduced cube will have 29 wavelength bins
+2019-07-23 14:57:12,054 - crispy - INFO - ['/home/groot/HCIL/HCIFS/flat/channel01_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel02_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel03_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel04_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel05_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel06_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel07_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel08_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel09_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel10_flat.fits', '/home/groot/HCIL/HCIFS/flat/channel11_flat.fits']
+2019-07-23 14:57:12,055 - crispy - INFO - [550.0, 577.0, 600.0, 620.0, 632.8, 640.0, 650.0, 670.0, 694.3, 720.0, 740.0]
+2019-07-23 14:57:31,941 - crispy - INFO - ['..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel02_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel03_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel04_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel05_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel07_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel08_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel09_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel10_flat.fits', '..//ReferenceFiles/wavecalHCIFS/channel11_flat.fits']
+2019-07-23 14:57:41,362 - crispy - INFO - Building calibration files, placing results in ..//ReferenceFiles/wavecalHCIFS/
+2019-07-23 14:57:41,366 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:57:41,371 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:57:41,885 - crispy - INFO - Mean, median, std: (5.50748889176921, 4.7999999999999545, 3.9322691007679453)
+2019-07-23 14:57:42,077 - crispy - INFO - Initializing PSFlet location transformation coefficients
+2019-07-23 14:57:42,486 - crispy - INFO - Performing initial optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:57:43,405 - crispy - INFO - Array origin: (514.0414364997876, 513.9391542962217)
+2019-07-23 14:57:43,406 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel01_flat.fits
+2019-07-23 14:57:54,009 - crispy - INFO - Array origin: (514.3727618197041, 513.8967754766595)
+2019-07-23 14:58:00,390 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel02_flat.fits
+2019-07-23 14:58:00,936 - crispy - INFO - Mean, median, std: (5.371167268842666, 4.666666666666515, 3.847416451256985)
+2019-07-23 14:58:01,132 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:58:02,922 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel02_flat.fits
+2019-07-23 14:58:05,987 - crispy - INFO - Array origin: (519.4370871979249, 513.8579606718462)
+2019-07-23 14:58:12,392 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel03_flat.fits
+2019-07-23 14:58:12,939 - crispy - INFO - Mean, median, std: (5.480404801534915, 4.7666666666666515, 3.9286911899215062)
+2019-07-23 14:58:13,136 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:58:14,939 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel03_flat.fits
+2019-07-23 14:58:17,173 - crispy - INFO - Array origin: (523.4290360284366, 513.8242496058947)
+2019-07-23 14:58:23,558 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel04_flat.fits
+2019-07-23 14:58:24,095 - crispy - INFO - Mean, median, std: (5.9671909210384175, 5.2000000000000455, 4.243493293412835)
+2019-07-23 14:58:24,290 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:58:26,057 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel04_flat.fits
+2019-07-23 14:58:28,231 - crispy - INFO - Array origin: (526.9845088607555, 513.7961537250079)
+2019-07-23 14:58:34,584 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel05_flat.fits
+2019-07-23 14:58:35,110 - crispy - INFO - Mean, median, std: (4.3298324058926285, 3.7666666666666515, 3.101282773661208)
+2019-07-23 14:58:35,302 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:58:37,053 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel05_flat.fits
+2019-07-23 14:58:40,089 - crispy - INFO - Array origin: (528.7746536480225, 513.7961537248879)
+2019-07-23 14:58:46,479 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits
+2019-07-23 14:58:47,009 - crispy - INFO - Mean, median, std: (5.590609837861997, 4.8333333333332575, 4.024312941885491)
+2019-07-23 14:58:47,198 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:58:48,958 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits
+2019-07-23 14:58:50,557 - crispy - INFO - Array origin: (530.1984021814745, 513.7719138350208)
+2019-07-23 14:58:56,821 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel07_flat.fits
+2019-07-23 14:58:57,356 - crispy - INFO - Mean, median, std: (5.000803564689058, 4.2999999999999545, 3.6177253472704884)
+2019-07-23 14:58:57,549 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:58:59,289 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel07_flat.fits
+2019-07-23 14:59:00,786 - crispy - INFO - Array origin: (531.7367463767173, 513.7595772890447)
+2019-07-23 14:59:07,076 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel08_flat.fits
+2019-07-23 14:59:07,597 - crispy - INFO - Mean, median, std: (4.968101360297072, 4.2999999999999545, 3.5894624908708908)
+2019-07-23 14:59:07,786 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:59:09,523 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel08_flat.fits
+2019-07-23 14:59:11,907 - crispy - INFO - Array origin: (534.9407715631156, 513.7431943353274)
+2019-07-23 14:59:18,320 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel09_flat.fits
+2019-07-23 14:59:18,858 - crispy - INFO - Mean, median, std: (5.1165868917310044, 4.400000000000091, 3.6935835882796964)
+2019-07-23 14:59:19,052 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:59:20,813 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel09_flat.fits
+2019-07-23 14:59:23,526 - crispy - INFO - Array origin: (538.2677329686045, 513.7243140219858)
+2019-07-23 14:59:29,922 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel10_flat.fits
+2019-07-23 14:59:30,450 - crispy - INFO - Mean, median, std: (5.9696580090315505, 5.2000000000000455, 4.2556291844062875)
+2019-07-23 14:59:30,645 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:59:32,400 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel10_flat.fits
+2019-07-23 14:59:34,981 - crispy - INFO - Array origin: (541.8995996717181, 513.7084432352221)
+2019-07-23 14:59:41,528 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel11_flat.fits
+2019-07-23 14:59:42,059 - crispy - INFO - Mean, median, std: (5.279525179880629, 4.566666666666606, 3.801013371931416)
+2019-07-23 14:59:42,253 - crispy - INFO - Initializing transformation coefficients with previous values
+2019-07-23 14:59:43,990 - crispy - INFO - Performing final optimization of PSFlet location transformation coefficients for frame ..//ReferenceFiles/wavecalHCIFS/channel11_flat.fits
+2019-07-23 14:59:46,540 - crispy - INFO - Array origin: (544.671195283806, 513.7001845507291)
+2019-07-23 14:59:52,863 - crispy - INFO - Saving wavelength solution to ..//ReferenceFiles/wavecalHCIFS/lamsol.dat
+2019-07-23 14:59:52,864 - crispy - INFO - Computing wavelength values at pixel centers
+2019-07-23 14:59:53,491 - crispy - INFO - Making high-resolution PSFLet models
+2019-07-23 14:59:53,491 - crispy - INFO - Starting parallel computation
+2019-07-23 14:59:53,588 - crispy - INFO - Computing PSFLet widths...
+2019-07-23 14:59:54,059 - crispy - INFO - Reduced cube will have 29 wavelength bins
+2019-07-23 14:59:54,059 - crispy - INFO - Making polychrome cube
+2019-07-23 15:00:24,620 - crispy - INFO - Saving polychrome cube
+2019-07-23 15:00:34,820 - crispy - INFO - Saving wavelength calibration cube
+2019-07-23 15:00:34,834 - crispy - INFO - Total time elapsed: 173 s
+2019-07-23 15:00:34,848 - crispy - INFO - Read data from HDU 0 of ..//ReferenceFiles/wavecalHCIFS/channel06_flat.fits
+2019-07-23 15:00:35,369 - crispy - INFO - Mean, median, std: (5.590609837861997, 4.8333333333332575, 4.024312941885491)
+2019-07-23 15:00:35,374 - crispy - INFO - Reduced cube will have 29 wavelength bins
+2019-07-23 15:00:36,323 - crispy - INFO - Elapsed time: 1.479273s
+2019-07-23 15:03:34,054 - crispy - INFO - Reduced cube will have 29 wavelength bins
